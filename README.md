@@ -8,4 +8,4 @@ el archivo index.js es quien tiene la conexcion a la base de datos y la configur
 
 ### Descripción del PRoyecto
 
-Este projecto en un projecto tipo MERN (Mongodb Express ReactJS NodeJS) aplicando el patron de diseño MVC (Model View Controller), por lo cual el mismo se ha estructurado en las carpetas, Controller, Models, Routes
+Este projecto en un projecto tipo MERN (Mongodb Express ReactJS NodeJS) aplicando el patron de diseño MVC (Model View Controller), por lo cual el mismo se ha estructurado en las carpetas, Controller, Models, Routes.
